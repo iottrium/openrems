@@ -1,4 +1,5 @@
 # openrems
+
 OpenREMS - Open Source  Renewable Energy Management System
 
 The major areas of the next generation technological advancement:
@@ -12,7 +13,7 @@ The major areas of the next generation technological advancement:
 
 
 
-Acknowledgements:
-================
+__Acknowledgements:__
+
 - Parts of this port were adapted from OpenEMS
 

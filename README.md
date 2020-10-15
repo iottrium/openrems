@@ -11,7 +11,7 @@ The major areas of the next generation technological advancement:
 - RMG     renewable-driven microgrid
 - PEV     plug-in electric vehicle
 
-
+<br/><br/>
 
 __Acknowledgements:__
 
